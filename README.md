@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=granthverma" alt="granthverma" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **CSS**
 
 - 📫 How to reach me **himanshuvermanewtonsch@gmail.com**
 
